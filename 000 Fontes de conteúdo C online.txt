@@ -1,0 +1,13 @@
+http://www.ic.unicamp.br/~norton/disciplinas/mc1022s2005/06_10.html
+
+http://linguagemc.com.br/string-em-c-vetor-de-caracteres/
+
+
+https://www.clubedohardware.com.br/forums/topic/922653-matriz-como-argumento-de-fun%C3%A7%C3%A3o/
+
+http://linguagemc.com.br/vetores-ou-arrays-em-linguagem-c/
+
+
+https://www.clubedohardware.com.br/forums/topic/1149804-alimentar-um-vetor-de-tamanho-din%C3%A2mico/
+
+http://mtm.ufsc.br/~azeredo/cursoC/aulas/c240.html
